@@ -1,1 +1,44 @@
 
+body{
+    background-color: aqua;
+    align-content: center;
+}
+
+.blue-heading {
+    color: blue;
+    align-content: center;
+}
+
+.red-paragraph {
+    color: red;
+    font-size: 15px;
+}
+.image-section img {
+    width: 500px;
+    height: 500px;
+    border: 2px solid green;
+}
+
+.form-section {
+    margin-top: 20px;
+}
+
+.form-section label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-section input,
+.form-section select {
+    margin-bottom: 10px;
+}
+
+.form-section button {
+    margin-top: 10px;
+}
+
+.image-section img {
+    width: 500px;
+    height: 500px;
+    border: 2px solid green;
+}
